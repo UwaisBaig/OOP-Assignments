@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About This Repository
 
-Welcome to my **OOP Arsenal**. This repository is a comprehensive log of my progression in Object-Oriented Programming during my second semester at UET Lahore (Roll No: 2025-CS-531). It bridges theoretical software engineering concepts with functional, logic-driven architecture. 
+Welcome to my **OOP Arsenal**. This repository is a comprehensive log of my progression in Object-Oriented Programming during my second semester at UET Lahore. It bridges theoretical software engineering concepts with functional, logic-driven architecture. 
 
 Instead of scattered scripts, you will find over 20 structured C# assignments, demonstrating practical applications of core OOP pillars, algorithmic problem solving, and clean directory management.
 
