@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace StudentInformationSystem
 {
@@ -15,7 +15,6 @@ namespace StudentInformationSystem
         static void Main(string[] args)
         {
             // Name: Muhammad Uwais Baig
-            // REG Number: 2025-CS-531
 
             Student[] students = new Student[5]; 
             int count = 0; 
