@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Practice/Practice/bin/Debug/net7.0/Practice
+/Users/macbook/Projects/Practice/Practice/bin/Debug/net7.0/Practice.deps.json
+/Users/macbook/Projects/Practice/Practice/bin/Debug/net7.0/Practice.runtimeconfig.json
+/Users/macbook/Projects/Practice/Practice/bin/Debug/net7.0/Practice.dll
+/Users/macbook/Projects/Practice/Practice/bin/Debug/net7.0/Practice.pdb
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.AssemblyInfo.cs
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.dll
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/refint/Practice.dll
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.pdb
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/Practice.genruntimeconfig.cache
+/Users/macbook/Projects/Practice/Practice/obj/Debug/net7.0/ref/Practice.dll
