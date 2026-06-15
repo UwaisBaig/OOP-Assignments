@@ -1,0 +1,51 @@
+=========================================
+                 BANK
+=========================================
+- name: string
+- address: string
+- contactInformation: string
+-----------------------------------------
+Relationships:
+ 1 Bank HAS Many Customers
+ 1 Bank HAS Many Employees
+=========================================
+
+=========================================
+               CUSTOMER
+=========================================
+- customerId: string
+- name: string
+- address: string
+- contactInformation: string
+-----------------------------------------
+Relationships:
+ 1 Customer HAS Many Accounts
+=========================================
+
+=========================================
+                ACCOUNT
+=========================================
+- accountNumber: string
+- balance: double
+- transactionLimit: double
+-----------------------------------------
+Relationships:
+ 1 Account HAS Many Transactions
+=========================================
+
+=========================================
+              TRANSACTION
+=========================================
+- transactionId: string
+- type: string
+- amount: double
+- timestamp: DateTime
+=========================================
+
+=========================================
+               EMPLOYEE
+=========================================
+- employeeId: string
+- name: string
+- position: string
+=========================================
