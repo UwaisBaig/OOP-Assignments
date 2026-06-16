@@ -1,0 +1,8 @@
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\bin\Debug\code.exe.config
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\bin\Debug\code.exe
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\bin\Debug\code.pdb
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\obj\Debug\code.csproj.AssemblyReference.cache
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\obj\Debug\code.exe
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\obj\Debug\code.pdb
+D:\VS OOPS 2nd Sem\week6 lecture 1\code\obj\Debug\code.exe.config

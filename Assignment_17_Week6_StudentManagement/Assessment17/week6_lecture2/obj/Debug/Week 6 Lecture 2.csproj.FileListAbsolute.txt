@@ -1,0 +1,7 @@
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\bin\Debug\Week 6 Lecture 2.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\bin\Debug\Week 6 Lecture 2.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\bin\Debug\Week 6 Lecture 2.pdb
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\obj\Debug\Week 6 Lecture 2.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\obj\Debug\Week 6 Lecture 2.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\obj\Debug\Week 6 Lecture 2.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\ Lab Manual 4\Week 6 Lecture 2\obj\Debug\Week 6 Lecture 2.pdb
