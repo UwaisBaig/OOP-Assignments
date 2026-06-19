@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/bin/Debug/net7.0/Manual2_week8_531
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/bin/Debug/net7.0/Manual2_week8_531.deps.json
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/bin/Debug/net7.0/Manual2_week8_531.runtimeconfig.json
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/bin/Debug/net7.0/Manual2_week8_531.dll
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/bin/Debug/net7.0/Manual2_week8_531.pdb
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.AssemblyInfo.cs
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.dll
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/refint/Manual2_week8_531.dll
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.pdb
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/Manual2_week8_531.genruntimeconfig.cache
+/Users/macbook/Projects/Manual1_week8/Manual2_week8_531/obj/Debug/net7.0/ref/Manual2_week8_531.dll
