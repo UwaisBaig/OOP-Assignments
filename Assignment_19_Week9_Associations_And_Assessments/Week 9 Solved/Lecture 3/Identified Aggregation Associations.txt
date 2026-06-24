@@ -1,0 +1,7 @@
+Identified Aggregation Associations:
+
+Journey and Address: A Journey has an aggregation relationship with Address because the transcript mentions needing a "start and destination" address for each journey.
+
+CarSharer and Address: A CarSharer has an aggregation relationship with Address because the system needs to hold the "home address of a car sharer".
+
+Note on the relationship type: This is Aggregation ("has-a") rather than Composition because the physical addresses (buildings, streets) exist independently of whether a journey is happening or a car sharer lives there.

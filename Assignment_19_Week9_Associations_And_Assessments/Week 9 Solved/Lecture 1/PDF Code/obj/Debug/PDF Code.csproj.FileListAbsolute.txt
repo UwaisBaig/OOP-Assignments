@@ -1,0 +1,8 @@
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\bin\Debug\PDF Code.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\bin\Debug\PDF Code.exe
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\bin\Debug\PDF Code.pdb
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\obj\Debug\PDF Code.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\obj\Debug\PDF Code.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\obj\Debug\PDF Code.exe
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\obj\Debug\PDF Code.pdb
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\PDF Code\obj\Debug\PDF Code.exe.config

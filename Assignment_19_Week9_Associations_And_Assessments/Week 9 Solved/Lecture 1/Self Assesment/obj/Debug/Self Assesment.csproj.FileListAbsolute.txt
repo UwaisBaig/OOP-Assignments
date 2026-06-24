@@ -1,0 +1,7 @@
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\bin\Debug\Self Assesment.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\bin\Debug\Self Assesment.exe
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\bin\Debug\Self Assesment.pdb
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\obj\Debug\Self Assesment.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\obj\Debug\Self Assesment.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\obj\Debug\Self Assesment.exe
+D:\Semester 2\Finals Syllabus\OOP\Week 9 Solved\Lecture 1\Self Assesment\obj\Debug\Self Assesment.pdb
