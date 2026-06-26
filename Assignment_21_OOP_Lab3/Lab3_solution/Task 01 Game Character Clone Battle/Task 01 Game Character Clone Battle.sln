@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01 Game Character Clone Battle", "Task 01 Game Character Clone Battle.csproj", "{2402EA84-9150-478C-80D2-B32F5A3CE024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2402EA84-9150-478C-80D2-B32F5A3CE024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2402EA84-9150-478C-80D2-B32F5A3CE024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2402EA84-9150-478C-80D2-B32F5A3CE024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2402EA84-9150-478C-80D2-B32F5A3CE024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE5DE1BF-4A65-49C5-875A-B17808FFE1EE}
+	EndGlobalSection
+EndGlobal

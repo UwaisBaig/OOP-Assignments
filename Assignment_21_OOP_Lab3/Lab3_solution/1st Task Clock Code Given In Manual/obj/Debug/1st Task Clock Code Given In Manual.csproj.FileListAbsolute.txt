@@ -1,0 +1,7 @@
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\bin\Debug\1st Task Clock Code Given In Manual.exe.config
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\bin\Debug\1st Task Clock Code Given In Manual.exe
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\bin\Debug\1st Task Clock Code Given In Manual.pdb
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\obj\Debug\1st Task Clock Code Given In Manual.csproj.AssemblyReference.cache
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\obj\Debug\1st Task Clock Code Given In Manual.csproj.CoreCompileInputs.cache
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\obj\Debug\1st Task Clock Code Given In Manual.exe
+D:\VS OOPS 2nd Sem\Lab3 Manual\1st Task Clock Code Given In Manual\obj\Debug\1st Task Clock Code Given In Manual.pdb

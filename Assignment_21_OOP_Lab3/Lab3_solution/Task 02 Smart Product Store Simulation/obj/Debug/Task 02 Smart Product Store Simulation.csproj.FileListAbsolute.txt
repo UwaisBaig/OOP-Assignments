@@ -1,0 +1,8 @@
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\bin\Debug\Task 02 Smart Product Store Simulation.exe.config
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\bin\Debug\Task 02 Smart Product Store Simulation.exe
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\bin\Debug\Task 02 Smart Product Store Simulation.pdb
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\obj\Debug\Task 02 Smart Product Store Simulation.csproj.AssemblyReference.cache
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\obj\Debug\Task 02 Smart Product Store Simulation.csproj.CoreCompileInputs.cache
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\obj\Debug\Task 02 Smart Product Store Simulation.exe
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\obj\Debug\Task 02 Smart Product Store Simulation.pdb
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 02 Smart Product Store Simulation\obj\Debug\Task 02 Smart Product Store Simulation.exe.config

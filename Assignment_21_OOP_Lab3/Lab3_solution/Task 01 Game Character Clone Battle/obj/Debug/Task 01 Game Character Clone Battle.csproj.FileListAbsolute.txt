@@ -1,0 +1,8 @@
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\bin\Debug\Task 01 Game Character Clone Battle.exe.config
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\bin\Debug\Task 01 Game Character Clone Battle.exe
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\bin\Debug\Task 01 Game Character Clone Battle.pdb
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\obj\Debug\Task 01 Game Character Clone Battle.csproj.AssemblyReference.cache
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\obj\Debug\Task 01 Game Character Clone Battle.csproj.CoreCompileInputs.cache
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\obj\Debug\Task 01 Game Character Clone Battle.exe
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\obj\Debug\Task 01 Game Character Clone Battle.pdb
+D:\VS OOPS 2nd Sem\Lab3 Manual\Task 01 Game Character Clone Battle\obj\Debug\Task 01 Game Character Clone Battle.exe.config
