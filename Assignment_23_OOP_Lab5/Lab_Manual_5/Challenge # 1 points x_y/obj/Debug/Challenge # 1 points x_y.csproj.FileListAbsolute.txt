@@ -1,0 +1,7 @@
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\bin\Debug\Challenge # 1 points x_y.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\bin\Debug\Challenge # 1 points x_y.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\bin\Debug\Challenge # 1 points x_y.pdb
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\obj\Debug\Challenge # 1 points x_y.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\obj\Debug\Challenge # 1 points x_y.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\obj\Debug\Challenge # 1 points x_y.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge # 1 points x_y\obj\Debug\Challenge # 1 points x_y.pdb

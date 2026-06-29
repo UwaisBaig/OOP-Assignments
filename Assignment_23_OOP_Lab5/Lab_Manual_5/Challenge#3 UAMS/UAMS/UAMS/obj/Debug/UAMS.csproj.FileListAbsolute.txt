@@ -1,0 +1,16 @@
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\bin\Debug\UAMS.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\bin\Debug\UAMS.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\bin\Debug\UAMS.pdb
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\obj\Debug\UAMS.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\obj\Debug\UAMS.pdb
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 6\University Admission Management System (Through OOPS)\UAMS\obj\Debug\UAMS.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\bin\Debug\UAMS.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\bin\Debug\UAMS.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\bin\Debug\UAMS.pdb
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\obj\Debug\UAMS.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\obj\Debug\UAMS.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Challenge#3 UAMS\UAMS\UAMS\obj\Debug\UAMS.pdb

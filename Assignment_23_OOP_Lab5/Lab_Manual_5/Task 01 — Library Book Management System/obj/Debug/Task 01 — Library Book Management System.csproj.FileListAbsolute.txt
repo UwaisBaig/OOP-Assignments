@@ -1,0 +1,7 @@
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\bin\Debug\Task 01 — Library Book Management System.exe.config
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\bin\Debug\Task 01 — Library Book Management System.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\bin\Debug\Task 01 — Library Book Management System.pdb
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\obj\Debug\Task 01 — Library Book Management System.csproj.AssemblyReference.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\obj\Debug\Task 01 — Library Book Management System.csproj.CoreCompileInputs.cache
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\obj\Debug\Task 01 — Library Book Management System.exe
+D:\Semester 2\Finals Syllabus\OOP\Lab\Lab Manual 5\Task 01 — Library Book Management System\obj\Debug\Task 01 — Library Book Management System.pdb
